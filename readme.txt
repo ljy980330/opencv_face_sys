@@ -2,10 +2,10 @@ image
     项目中用到的资源文件，程序运行时，放在同一目录下即可
 
 package
-    busybox源码
-    facepp提供的C++SDK包
-    openssl源码
-    Qt的画图插件
+    busybox-1.7.0.tar.bz2--------------------busybox源码
+    facepp_cpp_sdk-master.zip----------------facepp提供的C++SDK包
+    openssl-1.0.2r.tar.gz--------------------openssl源码
+    QCustomPlot.tar.gz-----------------------Qt的画图插件
 
 190510
     打开摄像头，多线程实现
